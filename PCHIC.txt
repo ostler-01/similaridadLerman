@@ -1,16 +1,16 @@
 SIMILARIDAD DE ISRAEL LERMAN (PCHIC)
 
-#IMPORTANTE LEER 
+IMPORTANTE LEER
 
-# PARA UN ADECUADO FUNCIONAMIENTO DE LA APLICACION PCHIC ES NESESARIO CONSIDERAR LOS SIGUIENTES 
-#PASOS
+Para un adecuado funcionamiento de la aplicación PCHIC es necesario considerar los siguientes pasos:
 
-1)CARGAR UN ARCCHIVO DE EXEL CON VARIABLES BINARIAS
-2)SELECCIONAR LAS VARIABLES A USAR 
-3)PRESIONAR EN EL BOTON CALCULAR SIMILARIDAD # ES NESESARIO CALCULAR LA MATRIZ DE NIVEL 0
-PARA PODER CALCULAR NODOS SIGNIFICATIVOS.
-# ES IMPORTANTE CERRAR EL DENDROGRAMA PARA VER LA MATRIZ DE NIVEL 0 EN EXEL Y PARA VER EL GRAFICO
-DE NODOS SIGNIFICATIVOS 
-4)SI DESEA VOLVER A REALIZAR UN NUEVO ANALISIS CON UNA NUEVA BASE DE DATOS BINARIOS ES NESESARIO LIMPIAR 
-PARA QUE NO SE SOBREPONGAN LOS VALORES
-5) SALIR 
+1. Cargar un archivo de Excel con variables binarias.
+2. Seleccionar las variables a usar.
+3. Presionar el botón "Calcular Similaridad". Es necesario calcular la matriz de nivel 0 para poder 
+   calcular nodos significativos.
+   Es importante cerrar el dendrograma para ver la matriz de nivel 0 en Excel, 
+   para ver el gráfico de nodos significativos.
+4. Si desea realizar un nuevo análisis con una nueva base de datos binarios,
+   es necesario limpiar para que no se sobrepongan los valores.
+
+5. Salir
